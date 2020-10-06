@@ -86,6 +86,8 @@ int main()
 
 	cout<<"Given array is"<<endl; 
 	printArray(arr, arr_size); 
+	cout<<"sorted successfully!"<<endl; 
+
 
 	mergeSort(arr, 0, arr_size - 1); 
 
