@@ -37,7 +37,7 @@ void mergeS(int arr[], int l, int m, int r)
 
 	/* Copy the remaining elements of L[], if there 
 	are any */
-	while (i < n1) { 
+	while (i < n2) { 
 		arr[k] = L[i]; 
 		i++; 
 		k++; 
